@@ -74,6 +74,8 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Cronograma.png)
+
 
 12. BIBLIOGRAFÍA 
 
