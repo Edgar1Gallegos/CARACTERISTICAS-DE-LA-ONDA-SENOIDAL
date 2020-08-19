@@ -10,10 +10,6 @@
 
 Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles. Elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales. Las matemáticas que se utilizan en su descripción son relativamente sencillas y han sido minuciosamente estudiadas.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal1.jpg)
-
-Figura 1(Una onda senoidal con algunas de sus principales características espaciales: amplitud, longitud de onda y fase.)
-
 Partes:
 
 Período: Una función periódica como las mencionadas, la cual se repite a intervalos regulares, cumple siempre la siguiente propiedad:
@@ -24,9 +20,7 @@ Amplitud: De acuerdo a la expresión general de la onda senoidal v (t) = vm sen 
 
 Ciclo: Es una parte de la onda contenida en un período. En la figura anterior se tomó el período midiéndolo desde dos cimas o crestas consecutivas, pero puede comenzar a medirse desde otros puntos de la onda, mientras estén limitados por un período. Obsérvese en la siguiente figura como un ciclo abarca desde un punto hasta otro con el mismo valor (altura) y la misma pendiente (inclinación).
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal2.JPG)
 
-Figura 2(En una onda senoidal, un ciclo siempre transcurre durante un período. Lo importante es que el punto de inicio y el final estén a la misma altura.)
 
 Frecuencia: Es la cantidad de ciclos que ocurren en 1 segundo y se encuentra vinculada al argumento de la función seno: ωt. La frecuencia se denota como f y se mide en ciclos por segundo o Hertz (Hz) en Sistema Internacional.
 
@@ -38,27 +32,22 @@ La frecuencia angular se expresa en radianes /segundo en el Sistema Internaciona
 
 Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, respecto a un tiempo tomado como referencia. En la siguiente figura la onda verde está adelantada respecto a la roja en un tiempo td. Dos ondas sinusoidales están en fase cuando su frecuencia y su fase son las mismas. Si la fase difiere, entonces están en desfase. Las ondas de la figura 2 también están desfasadas.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal6.JPG)
 
-Figura 3(Ondas senoidales desfasadas.)
+
 
 Generador de onda senoidal, hay muchas formas de obtener una señal en forma de onda senoidal. Las tomas de corriente caseras las proporcionan.
 
 1) Aplicación de la ley de Faraday
 Una forma bastante simple de obtener una señal senoidal es haciendo uso de la ley de Faraday. Esta indica que en un circuito cerrado de corriente, por ejemplo una espira, colocado en medio de un campo magnético, se genera una corriente inducida cuando el flujo de campo magnético a través de ella cambia en el tiempo. En consecuencia se genera igualmente un voltaje inducido o fem inducida. El flujo del campo magnético varía si la espira se hace girar con rapidez angular constante en medio del campo creado entre los polos N y S del imán mostrado en la figura.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal3.JPG)
 
-Figura 4(Generador de onda basado en la Ley de inducción de Faraday.)
 
 La limitación de este dispositiva es la dependencia que tiene el voltaje obtenido con la frecuencia de rotación de la espira, como se verá con mayor detalle en el ejemplo 1 de la sección de ejemplos más adelante.
 
 2) Oscilador de Wien
 Otra forma de obtener una onda senoidal, esta vez con electrónica, es mediante el oscilador de Wien, que requiere de un amplificador operacional en conexión con resistencias y condensadores. De esta forma se obtienen ondas senoidales cuya frecuencia y amplitud el usuario puede modificar según su conveniencia, mediante el ajuste con interruptores. En la figura se muestra un generador de señales senoidales, con el cual también se pueden obtener otras formas de onda: triangulares y cuadradas entre otras.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal4.JPG)
 
-Figura 5( Un generador de señales.)
 
 ¿Cómo calcular las ondas senoidales?
 
@@ -72,9 +61,7 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
 
 El osciloscopio es un aparato que permite visualizar en una pantalla señales de voltajes y corrientes tanto alternas como directas. Tiene perillas para ajustar el tamaño de la señal sobre una cuadrícula como se muestra en la siguiente figura:
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal5.JPG)
 
-Figura 6(Una señal sinusoidal medida con un osciloscopio.)
 
 A través de la imagen que provee el osciloscopio y conociendo el ajuste de la sensibilidad en ambos ejes, es posible calcular los parámetros de la onda que se describieron anteriormente.
 
@@ -91,6 +78,11 @@ El voltaje pico Vp se mide a partir del eje horizontal, siendo de 125 mV.
 Para encontrar el período se mide un ciclo, por ejemplo el delimitado por la flecha verde, que abarca 3.2 divisiones, entonces el período es:
 
 T = 3.2 divisiones x 10 microsegundos/división = 32 microsegundos = 32 μs
+
+
+
+
+
 
 
 4. DIAGRAMAS
@@ -138,9 +130,41 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Guardamos y salimos.
 
-7. TABLAS DE MEDICIONES Y CÁLCULOS 
+7. PREGUNTAS
 
-            
+7.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+
+3.45 divisiones
+
+7.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+2 V
+
+7.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+
+4 divisiones
+
+7.4 ¿En qué valor está posicionada la perilla TIME/DIV? 
+
+0.1 ms
+
+7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+Amplitud: 6.9 Voltios
+Perioido: 0.0004 segundos
+
+7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+
+Frecuencia: 2500H Hz
+Frecuencia angular: 5000π rad/s
+
+7.7 Con el multímetro digital mida el voltaje de salida en RL:
+
+----
+
+7.8 Compare el voltaje medido en el punto 7.5 y el obtenido en el punto 7.7 ¿Coinciden? ¿Por qué?
+
+
 
 8. PORCENTAJE DE ERROR.
 
