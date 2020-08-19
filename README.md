@@ -205,9 +205,9 @@ Los valores no coinciden dado que la medición del multimetro es el valor del vo
 
 ### 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/ERROR%201.png)
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Error%20calculado.png)
 
-TABLA 1: Porcentaje de error del voltaje eficaz y el valor pico
+TABLA 1: Porcentaje de error del voltaje eficaz y el valor pico en la resistencia RL.
 
 ### 9. CONCLUSIONES 
 
