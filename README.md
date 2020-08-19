@@ -34,7 +34,7 @@ La frecuencia angular se expresa en radianes /segundo en el Sistema Internaciona
 
 Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, respecto a un tiempo tomado como referencia. En la siguiente figura la onda verde está adelantada respecto a la roja en un tiempo td. Dos ondas sinusoidales están en fase cuando su frecuencia y su fase son las mismas. Si la fase difiere, entonces están en desfase. Las ondas de la figura 2 también están desfasadas.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal3.JPG)
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/onda-senoidal6.JPG)
 
 Generador de onda senoidal, hay muchas formas de obtener una señal en forma de onda senoidal. Las tomas de corriente caseras las proporcionan.
 
