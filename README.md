@@ -104,8 +104,6 @@ Para encontrar el período se mide un ciclo, por ejemplo el delimitado por la fl
 
 T = 3.2 divisiones x 10 microsegundos/división = 32 microsegundos = 32 μs
 
-
-
 4. DIAGRAMAS
 
 Circuito Eléctrico
