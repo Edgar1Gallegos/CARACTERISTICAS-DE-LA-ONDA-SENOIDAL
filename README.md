@@ -2,7 +2,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de circuitos eléctricos. Ademas de investigar la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática aplicando al maximo la investigacion realizada, los elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales. Las matemáticas que se utilizan en su descripción son relativamente sencillas y han sido minuciosamente estudiadas.
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de fundamentos de circuitos eléctricos. Ademas de investigar la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática aplicando al maximo la investigacion realizada, los elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales. Las matemáticas que se utilizan en su descripción son relativamente sencillas y han sido minuciosamente estudiadas.
 
 2. OBJETIVOS
 
