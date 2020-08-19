@@ -1,10 +1,10 @@
 # CARACTERISTICAS-DE-LA-ONDA-SENOIDAL
 
-1. PLANTEAMIENTO DEL PROBLEMA
+### 1. PLANTEAMIENTO DEL PROBLEMA
 
 En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de fundamentos de circuitos eléctricos. Ademas de investigar la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática aplicando al maximo la investigacion realizada, los elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales. Las matemáticas que se utilizan en su descripción son relativamente sencillas y han sido minuciosamente estudiadas.
 
-2. OBJETIVOS
+### 2. OBJETIVOS
 
 *	Determinar experimentalmente las características de señales senoidales.
 
@@ -14,7 +14,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 *	Completar el estudio de los circuitos con corriente alterna, medir la amplitud y la tensión eficaz de una onda senoidal y medir el periodo y calcular la frecuencia de una onda senoidal.
 
-3. MARCO TEÓRICO 
+### 3. MARCO TEÓRICO 
 
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión más eficiente de la energía.
 
@@ -104,7 +104,7 @@ Para encontrar el período se mide un ciclo, por ejemplo el delimitado por la fl
 
 T = 3.2 divisiones x 10 microsegundos/división = 32 microsegundos = 32 μs
 
-4. DIAGRAMAS
+### 4. DIAGRAMAS
 
 Circuito Eléctrico
 
@@ -120,13 +120,13 @@ Descripción del circuito
 * Además se puede identificar 1 malla, por donde circulara una corriente.
 
 
-5. LISTAS DE COMPONENTES
+### 5. LISTAS DE COMPONENTES
 
 
 
 FIGURA 8: Descripción de los componenetes usados en el simulador Tinkercad.
 
-6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 * Abrimos el sitio web "tinkercad" y creamos una cuenta.
 
@@ -148,47 +148,47 @@ FIGURA 8: Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Guardamos y salimos.
 
-7. PREGUNTAS
+### 7. PREGUNTAS
 
-7.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+##### 7.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
 3.45 divisiones
 
-7.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+##### 7.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 2 V
 
-7.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+##### 7.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
 
 4 divisiones
 
-7.4 ¿En qué valor está posicionada la perilla TIME/DIV? 
+##### 7.4 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
 0.1 ms
 
-7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+##### 7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud: 6.8 Voltios
 Perioido: 0.0004 segundos
 
-7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+##### 7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
 Frecuencia: 2500H Hz
 Frecuencia angular: 5000π rad/s
 
-7.7 Con el multímetro digital mida el voltaje de salida en RL:
+##### 7.7 Con el multímetro digital mida el voltaje de salida en RL:
 
 4.85 V
 
-7.8 Compare el voltaje medido en el punto 7.5 y el obtenido en el punto 7.7 ¿Coinciden? ¿Por qué?
+##### 7.8 Compare el voltaje medido en el punto 7.5 y el obtenido en el punto 7.7 ¿Coinciden? ¿Por qué?
 
 Los valores no coinciden dado que la medición del multimetro es el valor del voltaje rms o voltaje eficaz, mientras que en el osiloscopio el pico de la curva o la amplitud es el valor del voltaje pico, entonces para dichos valores coincidan se deberia hallar el valor del voltaje rms de la medicion del osiloscopio, se lo hace con una operación sencilla dividiendo el valor pico para raiz de dos, arrojandonos un valor de 4.81 V, mientras que el medido por el multimetro fue de 4.85 V, en ese caso los dos valores son tan cercanos que validan la fundamentacion teorica.
 
-8. PORCENTAJE DE ERROR.
+### 8. PORCENTAJE DE ERROR.
 
 
 
-9. CONCLUSIONES 
+### 9. CONCLUSIONES 
 
 El tipo de onda más común en señal alterna es la onda senoidal:
 
@@ -208,8 +208,7 @@ El tipo de onda más común en señal alterna es la onda senoidal:
 
 * El valor eficaz va a poder definirse como una corriente rigurosamente constante.
 
-
-10. RECOMENDACIONES 
+### 10. RECOMENDACIONES 
 
 * Utilizar diferntes simuladores para la realizacion de la practica, que permitan hacer uso de los aparatos requeridos, con una similitud a los de un laboratorio fisico.
 
@@ -217,14 +216,14 @@ El tipo de onda más común en señal alterna es la onda senoidal:
 
 * Se debe tener cuidado en la confusion al momento de trabajar en AC O DC ya que podrian provocar erros en las mediciones o en la resolución de las preguntas.
 
-11. CRONOGRAMA
+### 11. CRONOGRAMA
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Cronograma.png)
 
 
-12. BIBLIOGRAFÍA 
+### 12. BIBLIOGRAFÍA 
 
 Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
