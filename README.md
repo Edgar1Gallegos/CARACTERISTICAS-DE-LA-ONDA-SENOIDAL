@@ -185,12 +185,14 @@ FIGURA 11: Descripción de los componenentes usados en el simulador Tinkercad.
 
 ##### 7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud: 6.8 Voltios
+Amplitud: 6.9 Voltios
+
 Perioido: 0.0004 segundos
 
 ##### 7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
 Frecuencia: 2500H Hz
+
 Frecuencia angular: 5000π rad/s
 
 ##### 7.7 Con el multímetro digital mida el voltaje de salida en RL:
@@ -199,7 +201,7 @@ Frecuencia angular: 5000π rad/s
 
 ##### 7.8 Compare el voltaje medido en el punto 7.5 y el obtenido en el punto 7.7 ¿Coinciden? ¿Por qué?
 
-Los valores no coinciden dado que la medición del multimetro es el valor del voltaje rms o voltaje eficaz, mientras que en el osiloscopio el pico de la curva o la amplitud es el valor del voltaje pico, entonces para dichos valores coincidan se deberia hallar el valor del voltaje rms de la medicion del osiloscopio, se lo hace con una operación sencilla dividiendo el valor pico para raiz de dos, arrojandonos un valor de 4.81 V, mientras que el medido por el multimetro fue de 4.85 V, en ese caso los dos valores son tan cercanos que validan la fundamentacion teorica.
+Los valores no coinciden dado que la medición del multimetro es el valor del voltaje rms o voltaje eficaz, mientras que en el osiloscopio el pico de la curva o la amplitud es el valor del voltaje pico, entonces para dichos valores coincidan se deberia hallar el valor del voltaje rms de la medicion del osiloscopio, se lo hace con una operación sencilla dividiendo el valor pico para raiz de dos, arrojandonos un valor de 4.8 V, mientras que el medido por el multimetro fue de 4.85 V, en ese caso los dos valores son tan cercanos que validan la fundamentacion teorica.
 
 ### 8. PORCENTAJE DE ERROR.
 
