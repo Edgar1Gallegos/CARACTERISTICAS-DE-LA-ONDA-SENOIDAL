@@ -112,17 +112,23 @@ Circuito Eléctrico
 
 FIGURA 7: Circuito eléctrico.
 
+Circuito Eléctrico en Tinkercad
+
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Circuito_Tinker.jpg)
+
+FIGURA 8: Implementación del circuito en Tinkercad
+
 Circuito Eléctrico en Proteus
 
 ![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Proteus%201.1.png)
 
-FIGURA 8: Circuito eléctrico, realizado en el simulador Proteus.
+FIGURA 9: Circuito eléctrico, realizado en el simulador Proteus.
 
 Opciones del menu del Osiloscopio
 
 ![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Proteus%201.2.png)
 
-FIGURA 9: Configuración del osiloscopio
+FIGURA 10: Configuración del osiloscopio
 
 Descripción del circuito
 
@@ -135,7 +141,7 @@ Descripción del circuito
 ### 5. LISTAS DE COMPONENTES
 ![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/LISTA_COMPOTENTES.jpg)
 
-FIGURA 8: Descripción de los componenentes usados en el simulador Tinkercad.
+FIGURA 11: Descripción de los componenentes usados en el simulador Tinkercad.
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
