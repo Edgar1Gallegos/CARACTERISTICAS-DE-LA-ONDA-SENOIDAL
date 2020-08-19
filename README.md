@@ -8,11 +8,11 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 *	Determinar experimentalmente las características de señales senoidales.
 
-*	Completar el estudio de los circuitos con corriente alterna, medir la amplitud y la tensión eficaz de una onda senoidal y medir el periodo y calcular la frecuencia de una onda senoidal.
-
 * Aprender a medir el periodo de una onda de C.A. con el osciloscopio y los valores de voltajes de pico con el osciloscopio.
 
 *	Analizar y verificar en forma experimental el desfasamiento de las ondas senoidales de tensiones y corrientes entre el voltaje y la tensión en circuitos.
+
+*	Completar el estudio de los circuitos con corriente alterna, medir la amplitud y la tensión eficaz de una onda senoidal y medir el periodo y calcular la frecuencia de una onda senoidal.
 
 3. MARCO TEÓRICO 
 
