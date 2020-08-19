@@ -121,10 +121,9 @@ Descripción del circuito
 
 
 ### 5. LISTAS DE COMPONENTES
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/LISTA_COMPOTENTES.jpg)
 
-
-
-FIGURA 8: Descripción de los componenetes usados en el simulador Tinkercad.
+FIGURA 8: Descripción de los componenentes usados en el simulador Tinkercad.
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
