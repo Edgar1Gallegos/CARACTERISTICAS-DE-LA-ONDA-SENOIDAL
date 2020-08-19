@@ -135,15 +135,15 @@ FIGURA 8: Descripción de los componenentes usados en el simulador Tinkercad.
 
 * Se selecciona el suministro de energía que nos permite usar voltaje en ac, conectamos y colocamos el valor de la guía que es de 20V.
 
-* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 4 de valores de 1 KOhm, 0.47 KOhm, 2.2 KOhm y 0.82 KOhm.
+* Escogemos dos resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son de valores de 1 KOhm y 2.2 KOhm.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
-* Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
+* Colocamos un osciloscopio y conectamos en paralelo con la resistencia RL, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de superposición, pedidas en la guía.
+* Realizamos las mediciones de volatje en RL.
 
-* Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
+* Anotamos los valores obtenidos y respondemos las preguntas.
 
 * Guardamos y salimos.
 
@@ -185,9 +185,7 @@ Los valores no coinciden dado que la medición del multimetro es el valor del vo
 
 ### 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Error.png)
 
-TABLA 1: Porcentaje de error del voltaje eficaz
 
 ### 9. CONCLUSIONES 
 
