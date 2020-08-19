@@ -4,13 +4,14 @@
 
 
 2. OBJETIVOS
-* Aprender cuales son los parámetros que se deben tomar en cuenta para el uso adecuado del osciloscopio y aprovecharlo al máximo.
 
-* Aprender a medir los valores de voltajes de pico con el osciloscopio.
+*	Determinar experimentalmente las características de señales senoidales.
 
-* Aprender a medir el periodo de una onda de C.A. con el osciloscopio.
+*	Completar el estudio de los circuitos con corriente alterna, medir la amplitud y la tensión eficaz de una onda senoidal y medir el periodo y calcular la frecuencia de una onda senoidal.
 
-* Determinar la frecuencia de oscilación de una onda en base al valor medido del periodo.
+* Aprender a medir el periodo de una onda de C.A. con el osciloscopio y los valores de voltajes de pico con el osciloscopio.
+
+*	Analizar y verificar en forma experimental el desfasamiento de las ondas senoidales de tensiones y corrientes entre el voltaje y la tensión en circuitos.
 
 3. MARCO TEÓRICO 
 
