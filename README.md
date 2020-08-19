@@ -108,24 +108,23 @@ T = 3.2 divisiones x 10 microsegundos/división = 32 microsegundos = 32 μs
 
 Circuito Eléctrico
 
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Figura%202.png)
 
-Fig 2. Circuito eléctrico
+FIGURA 7: Circuito eléctrico
 
 Descripción del circuito
 
-* En el diagrama se observa dos fuentes independientes de voltaje, conectadas a los extremos del circuito.
-* Además, dentro del circuito se aprecia 4 resistencias medidas en KOhms y Ohms.
-* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
-* Se tiene que la resistencia de 1 KOhm forma nodo con las resistencias de 820 Ohm y 2.2 KOhm. La resistencia de 820 Ohm forma un nodo con las resistencias de 470 Ohm y con la segunda fuente de voltaje. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
-* Además se puede identificar 3 mallas, que para el análisis se denotará como I1, I2, I3 todas en sentido de las manecillas del reloj(Anexos).
-
+* En el diagrama se observa una fuentes independientes de voltaje AC, conectadas a al extremo izquierdo del circuito.
+* Además, dentro del circuito se aprecia 2 resistencias medidas en KOhms.
+* Se identifica la resistencia de carga RL que será el centro del analisis de la practica de laboratorio.
+* Además se puede identificar 1 malla, por donde circulara una corriente.
 
 
 5. LISTAS DE COMPONENTES
 
 
 
-Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
+FIGURA 8: Descripción de los componenetes usados en el simulador Tinkercad.
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
@@ -169,7 +168,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud: 6.9 Voltios
+Amplitud: 6.8 Voltios
 Perioido: 0.0004 segundos
 
 7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
@@ -179,11 +178,11 @@ Frecuencia angular: 5000π rad/s
 
 7.7 Con el multímetro digital mida el voltaje de salida en RL:
 
-----
+4.85 V
 
 7.8 Compare el voltaje medido en el punto 7.5 y el obtenido en el punto 7.7 ¿Coinciden? ¿Por qué?
 
-
+Los valores no coinciden dado que la medición del multimetro es el valor del voltaje rms o voltaje eficaz, mientras que en el osiloscopio el pico de la curva o la amplitud es el valor del voltaje pico, entonces para dichos valores coincidan se deberia hallar el valor del voltaje rms de la medicion del osiloscopio, se lo hace con una operación sencilla dividiendo el valor pico para raiz de dos, arrojandonos un valor de 4.81 V, mientras que el medido por el multimetro fue de 4.85 V, en ese caso los dos valores son tan cercanos que validan la fundamentacion teorica.
 
 8. PORCENTAJE DE ERROR.
 
@@ -191,10 +190,32 @@ Frecuencia angular: 5000π rad/s
 
 9. CONCLUSIONES 
 
+El tipo de onda más común en señal alterna es la onda senoidal:
+
+* En el caso  de que la onda sea simétrica se  tendrá  que trabajar con la parte positiva.
+
+* El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas.
+
+* El servicio de energía provisto por las compañías que generan electricidad está en forma senoidal.
+
+* Cuando el voltaje cambia la polaridad, la corriente cambia de dirección.
+
+* Cuando voltaje   senoidal  es aplicado a un circuito  resistivo, resulta una corriente senoidal.
+
+* El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias a este instrumento podremos encontrar valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
+
+* El error no va a ser una excepción en esta práctica, debido a la menor exactitud que presenta el multimetro con respecto al osciloscopio.
+
+* El valor eficaz va a poder definirse como una corriente rigurosamente constante.
+
 
 10. RECOMENDACIONES 
 
+* Utilizar diferntes simuladores para la realizacion de la practica, que permitan hacer uso de los aparatos requeridos, con una similitud a los de un laboratorio fisico.
 
+*  Al momento de conectar el osiloscpio, colocar un terminal GND ya que en CA no existe una polaridad como tal, ademas revisar la teoria del osciloscopio para facilitar y acelerar el proceso.
+
+* Se debe tener cuidado en la confusion al momento de trabajar en AC O DC ya que podrian provocar erros en las mediciones o en la resolución de las preguntas.
 
 11. CRONOGRAMA
 
