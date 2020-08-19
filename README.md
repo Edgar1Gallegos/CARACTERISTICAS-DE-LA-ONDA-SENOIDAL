@@ -169,7 +169,7 @@ FIGURA 11: Descripción de los componenentes usados en el simulador Tinkercad.
 
 ##### 7.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-3.37 divisiones
+3.45 divisiones
 
 ##### 7.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -185,7 +185,7 @@ FIGURA 11: Descripción de los componenentes usados en el simulador Tinkercad.
 
 ##### 7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud: 6.75 Voltios
+Amplitud: 6.9 Voltios
 
 Perioido: 0.0004 segundos
 
@@ -205,7 +205,7 @@ Los valores no coinciden dado que la medición del multimetro es el valor del vo
 
 ### 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/ERROR%201.1.png)
+![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/ERROR%201.png)
 
 TABLA 1: Porcentaje de error del voltaje eficaz y el valor pico
 
