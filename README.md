@@ -191,7 +191,7 @@ Perioido: 0.0004 segundos
 
 ##### 7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
-Frecuencia: 2500H Hz
+Frecuencia: 2500 Hz
 
 Frecuencia angular: 5000π rad/s
 
