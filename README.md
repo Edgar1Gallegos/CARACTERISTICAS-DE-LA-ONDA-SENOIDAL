@@ -4,7 +4,13 @@
 
 
 2. OBJETIVOS
+* Aprender cuales son los parámetros que se deben tomar en cuenta para el uso adecuado del osciloscopio y aprovecharlo al máximo.
 
+* Aprender a medir los valores de voltajes de pico con el osciloscopio.
+
+* Aprender a medir el periodo de una onda de C.A. con el osciloscopio.
+
+* Determinar la frecuencia de oscilación de una onda en base al valor medido del periodo.
 
 3. MARCO TEÓRICO 
 
